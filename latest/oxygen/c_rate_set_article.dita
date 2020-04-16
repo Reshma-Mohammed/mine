@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_nlh_s1z_k3b">
+    <title>Loan Notice – Credit Agricole – Rate Set (CIB-RS01)</title>
+    <conbody>
+        <p>Verify/Enter the details in the <wintitle>Transaction</wintitle> section of the
+                <wintitle>Data Review</wintitle> pane using the notice on the left pane. The
+            following image shows a sample Loan Notice – Credit Agricole document with the Rate Set
+            values highlighted along with the parameters.</p>
+        <p>The following table lists the parameters and the values.</p>
+        <p>
+            <table frame="all" rowsep="1" colsep="1" id="table_cl3_y1z_k3b">
+                <tgroup cols="2">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1*"/>
+                    <thead>
+                        <row>
+                            <entry>Field</entry>
+                            <entry>Value in the Sample Document</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry><uicontrol>Transaction Type</uicontrol></entry>
+                            <entry>Rate Set</entry>
+                        </row>
+                        <row>
+                            <entry><uicontrol>All in Rate</uicontrol></entry>
+                            <entry>4.902380</entry>
+                        </row>
+                        <row>
+                            <entry><uicontrol>Index</uicontrol></entry>
+                            <entry>2.402380</entry>
+                        </row>
+                        <row>
+                            <entry><uicontrol>Borrower</uicontrol></entry>
+                            <entry>GCI LLC</entry>
+                        </row>
+                        <row>
+                            <entry><uicontrol>Facility</uicontrol></entry>
+                            <entry>TERM B FACILITY</entry>
+                        </row>
+                        <row>
+                            <entry><uicontrol>Index Type</uicontrol></entry>
+                            <entry>LIBOR</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+    </conbody>
+</concept>
