@@ -1,0 +1,51 @@
+VIDEOs PRIORITY
+Actionable Transactions
+Interest Payment - done
+Paydown - done
+Fee Payment - script available - video wip
+Rate Set - script available
+Drawdown/Borrowing - script available
+Pik/Commitment Increase - In Progress
+Commitment Decrease - script available
+Spread Change - script available
+
+Non-Actionable Transactions
+Rollover - script available
+Index Change - script available
+
+
+Places of improvement??
+ - Implementing feedback without fail in the work items.
+ - Clear communication of work items trough roadmap
+ - 
+
+
+Guidance for attaining next level
+- Expectations
+- points for improvement? 
+- frequency of 1x1 - 
+
+Captivate license renewal
+
+Following up
+
+ideas/problem areas where to contribute to end 
+
+Note the issues in the video 
+Cancel the invites to touch point
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
