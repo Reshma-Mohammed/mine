@@ -17,7 +17,7 @@ Index Change - script available
 Places of improvement??
  - Implementing feedback without fail in the work items.
  - Clear communication of work items trough roadmap
- - 
+ - **Tracking the comments 
 
 
 Guidance for attaining next level
@@ -25,7 +25,7 @@ Guidance for attaining next level
 - points for improvement? 
 - frequency of 1x1 - 
 
-Captivate license renewal
+Captivate license renewal - checked  - auto renewal 
 
 Following up
 
@@ -36,9 +36,29 @@ Cancel the invites to touch point
 
 
 
+ - Completed API Certifictaion and looking forward for the implementation. 
+ 
+ - Cancelled the Touch point calls and have set up new invite. 
+ 
+ - Analyzing the review comments in the videos and providing the workarounds. 
+ 
+ - Better communication through 1x1, presenting weekly work items in touchpoint calls and Planning items 
+ 
 
 
 
+As a follow up from the last call, i have added links to all the video on Data Review Wiki Teams channel. 
+
+Since clarity on Spread Change related process is taking some time, i wanted to understand if we can go ahead and work on the next video. this will be the first video of Non-Actionable transaction.So the review process will be a bit different than usual. So we wanted to ensure that the script is acuurate and is as expected. 
+
+  My work in this and next week:
+  
+  - Awaiting feedback on the PIK script. Once available will update the PIK video 
+  - Review of Rollover script
+  - Mockups of BNP, CIB
+  - Internal articles for Data view Navigation changes
+  - New articles for Tax form Validation
+  - Asset Management migration work 
 
 
 
