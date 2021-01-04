@@ -61,7 +61,20 @@ Since clarity on Spread Change related process is taking some time, i wanted to 
   - Asset Management migration work 
 
 
-
+My work in this and next week (12/11):
+  
+  - PIK video is reviewed and approved. 
+  - Mockups of ATD and HSB are in progress 
+	- ATD_GT03_IP03
+	- ATD_GT03_FP04
+	- ATD_GT03_FP03
+	- HSB_GT01_RS02
+	- ATD_GT03_IP02
+  - Internal articles for Data view Navigation changes (completed)
+  - 1.27.0 release feature article - created Cross Dataset Data Views - published
+  - 1.27.0 release Release Notes - Created RN for the upcoming release, migrated 1.23.0, 1.24.0, 1.25.0 from SharePoint to ServiceNow. Additionally working on Central article for Release Notes. 
+  - New articles for Tax form Validation (Client Reports) 
+  - Asset Management migration work (on-Track) 
 
 
 
